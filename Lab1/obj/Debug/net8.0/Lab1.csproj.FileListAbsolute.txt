@@ -1,0 +1,14 @@
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/bin/Debug/net8.0/Lab1
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/bin/Debug/net8.0/Lab1.deps.json
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/bin/Debug/net8.0/Lab1.runtimeconfig.json
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/bin/Debug/net8.0/Lab1.dll
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/bin/Debug/net8.0/Lab1.pdb
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfoInputs.cache
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfo.cs
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/Lab1.dll
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/refint/Lab1.dll
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/Lab1.pdb
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/Lab1.genruntimeconfig.cache
+/Users/anastasiavorobey/Desktop/Политех/Лаб1/Lab1/obj/Debug/net8.0/ref/Lab1.dll
