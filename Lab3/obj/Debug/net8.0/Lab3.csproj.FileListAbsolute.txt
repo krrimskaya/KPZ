@@ -1,0 +1,15 @@
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/bin/Debug/net8.0/Lab3
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/Lab3.sourcelink.json
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/anastasiavorobey/Desktop/KPZ/Lab3/obj/Debug/net8.0/ref/Lab3.dll
