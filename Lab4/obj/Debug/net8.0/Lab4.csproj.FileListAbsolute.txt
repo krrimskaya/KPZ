@@ -1,0 +1,15 @@
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/bin/Debug/net8.0/Lab4
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/bin/Debug/net8.0/Lab4.deps.json
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/bin/Debug/net8.0/Lab4.runtimeconfig.json
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/bin/Debug/net8.0/Lab4.dll
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/bin/Debug/net8.0/Lab4.pdb
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/Lab4.AssemblyInfoInputs.cache
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/Lab4.AssemblyInfo.cs
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/Lab4.csproj.CoreCompileInputs.cache
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/Lab4.sourcelink.json
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/Lab4.dll
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/refint/Lab4.dll
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/Lab4.pdb
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/Lab4.genruntimeconfig.cache
+/Users/anastasiavorobey/Desktop/KPZ/Lab4/obj/Debug/net8.0/ref/Lab4.dll
