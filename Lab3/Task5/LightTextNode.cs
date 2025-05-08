@@ -7,7 +7,6 @@ public class LightTextNode : LightNode
         Text = text;
     }
 
-    // Повертає просто текст
     public override string GetOuterHTML()
     {
         return Text;
