@@ -1,20 +1,15 @@
-public class LightTextNode : LightNode
+namespace KPZ.Lab3.Task5
 {
-    public string Text { get; set; }
-
-    public LightTextNode(string text)
+    public class LightTextNode : LightNode
     {
-        Text = text;
-    }
+        public string Text { get; }
 
-    // Повертає просто текст
-    public override string GetOuterHTML()
-    {
-        return Text;
-    }
+        public LightTextNode(string text)
+        {
+            Text = text;
+        }
 
-    public override string GetInnerHTML()
-    {
-        return Text;
+        public override string GetOuterHTML() => Text;
+        public override string GetInnerHTML() => Text;
     }
 }

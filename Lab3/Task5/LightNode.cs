@@ -1,6 +1,8 @@
-public abstract class LightNode
+namespace KPZ.Lab3.Task5
 {
-    // Абстрактні методи для отримання outerHTML та innerHTML
-    public abstract string GetOuterHTML();
-    public abstract string GetInnerHTML();
+    public abstract class LightNode
+    {
+        public abstract string GetOuterHTML();
+        public abstract string GetInnerHTML();
+    }
 }

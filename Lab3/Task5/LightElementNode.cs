@@ -2,40 +2,38 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-public class LightElementNode : LightNode
+namespace KPZ.Lab3.Task5
 {
-    public string TagName { get; set; }
-    public bool IsBlockElement { get; set; }  // Для блокових чи рядкових елементів
-    public bool IsSelfClosing { get; set; }   // Для одиничних тегів, таких як <img />
-    
-    // для зберігання CSS класів
-    public List<string> CSClasses { get; set; } = new List<string>(); 
-    
-    public List<LightNode> Children { get; set; } = new List<LightNode>();
-
-    public LightElementNode(string tagName, bool isBlockElement = false, bool isSelfClosing = false)
+    public class LightElementNode : LightNode
     {
-        TagName = tagName;
-        IsBlockElement = isBlockElement;
-        IsSelfClosing = isSelfClosing;
-    }
+        public string TagName { get; set; }
+        public bool IsBlockElement { get; set; }
+        public bool IsSelfClosing { get; set; }
+        public List<string> CssClasses { get; set; } = new List<string>();
+        public List<LightNode> Children { get; set; } = new List<LightNode>();
 
-    public override string GetOuterHTML()
-    {
-        if (IsSelfClosing)
+        public LightElementNode(string tagName, bool isBlockElement = false, bool isSelfClosing = false)
         {
-            return $"<{TagName} />";
+            TagName = tagName;
+            IsBlockElement = isBlockElement;
+            IsSelfClosing = isSelfClosing;
         }
-        else
-        {
-            string classAttribute = CSClasses.Count > 0 ? $" class=\"{string.Join(" ", CSClasses)}\"" : "";
-            string childrenHTML = string.Join("", Children.Select(child => child.GetOuterHTML()));
-            return $"<{TagName}{classAttribute}>{childrenHTML}</{TagName}>";
-        }
-    }
 
-    public override string GetInnerHTML()
-    {
-        return string.Join("", Children.Select(child => child.GetInnerHTML()));
+        public override string GetOuterHTML()
+        {
+            if (IsSelfClosing)
+            {
+                return $"<{TagName} class=\"{string.Join(" ", CssClasses)}\" />";
+            }
+            
+            string classes = CssClasses.Count > 0 ? $" class=\"{string.Join(" ", CssClasses)}\"" : "";
+            string children = string.Join("", Children.Select(c => c.GetOuterHTML()));
+            return $"<{TagName}{classes}>{children}</{TagName}>";
+        }
+
+        public override string GetInnerHTML()
+        {
+            return string.Join("", Children.Select(c => c.GetOuterHTML()));
+        }
     }
 }
